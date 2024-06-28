@@ -62,7 +62,7 @@ body {
   line-height: 1.75;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
-  color: #4c4d56;
+  color:  #FFF700;
   outline: none;
   visibility: visible;
   overflow-X: hidden;
@@ -77,7 +77,7 @@ body[dir="rtl"] {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Manrope", sans-serif;
-  color: #090d2f;
+  color: #008000;
   font-weight: 700;
   margin-top: 0;
   line-height: 1.5;
