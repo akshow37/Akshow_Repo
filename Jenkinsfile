@@ -4,7 +4,7 @@ pipeline {
         VERSION = "${env.BUILD_ID}"
         AWS_ACCOUNT_ID="767398084126"
         AWS_DEFAULT_REGION="us-west-1"
-        IMAGE_REPO_NAME="my-image-repo"
+        IMAGE_REPO_NAME="akeem"
         IMAGE_TAG= "${env.BUILD_ID}"
         REPOSITORY_URI = "767398084126.dkr.ecr.us-west-1.amazonaws.com/akeem"
     }
